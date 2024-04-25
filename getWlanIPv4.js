@@ -18,7 +18,7 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0`*/
 
 // XXX: THIS IS MY METHOD FOR GETTING THE WLAN IPv4 Address 
-// XXX: DON'T JUDGE ME, LOL. @KairuDev
+// XXX: DON'T JUDGE ME, LOL. @PolongDev
 
 import { execSync } from "child_process";
 
