@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "wifiscandevices",
+  "version": "1.0.0",
+  "description": "```bash cd $HOME && pkg update && pkg upgrade && pkg install git nodejs nmap && git clone https://github.com/Kairu-bit/WifiScanDevices && cd WifiScanDevices && node index.js ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "net": "^1.0.2"
+  }
+}
